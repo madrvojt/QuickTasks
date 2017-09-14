@@ -1,2 +1,3 @@
-# QuickTasks
-Easy app for leaning Xamarin Forms basics
+# Quick Tasks App (For workshop)
+
+* [Step One](https://github.com/madrvojt/QuickTasks/tree/first_step)
