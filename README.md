@@ -1,3 +1,4 @@
-# Quick Tasks App (For workshop)
+# Quick Tasks App Tutorial Part 2
 
-* [Step One](https://github.com/madrvojt/QuickTasks/tree/first_step)
+
+## 1. Create ListView
