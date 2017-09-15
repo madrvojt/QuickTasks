@@ -24,7 +24,7 @@ TaskButton.Clicked += (s, e) => { };
 
 2. Move list to public field
 
-+![](Materials/Screenshot_04.png)
+![](Materials/Screenshot_04.png)
 
 3. Get text from extry and add to list + clear list
 
@@ -45,7 +45,7 @@ public ObservableCollection<string> tasks;
 
 ## You got this!
 
-+![](Materials/Screenshot_05.png)
+![](Materials/Screenshot_05.png)
 
 
 ## Tip
