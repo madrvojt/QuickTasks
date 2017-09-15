@@ -8,6 +8,8 @@ Easy workshop tutorial for creating Quick Tasks app with Xamarin Forms
 
 * [Step Two](https://github.com/madrvojt/QuickTasks/tree/second_step)
 
+* [Step Three](https://github.com/madrvojt/QuickTasks/tree/third_step)
+
 ## Xamarin.Forms version
 
 * 2.3.4
