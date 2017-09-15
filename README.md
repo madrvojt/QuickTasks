@@ -3,7 +3,7 @@
 
 ## 1. Create navigation container for app
 
-Added Navigation for MainPage in constructor App.class
+* Added Navigation for MainPage in constructor App.class
 
 ```csharp
 public App()
@@ -17,7 +17,7 @@ public App()
 
 +![](Materials/Screenshot_04.png)
 
-a) Open MainPage.xaml file in solution and change default label to ListView
+ 1. Open MainPage.xaml file in solution and change default label to ListView
 
 ```csharp
 <?xml version="1.0" encoding="utf-8" ?>
@@ -31,7 +31,7 @@ a) Open MainPage.xaml file in solution and change default label to ListView
 </ContentPage>
 ```
 
-b) Open MainPage.xaml.cs and add list with fakedata 
+2. Open MainPage.xaml.cs and add list with fakedata 
 
 
 ```csharp
@@ -46,14 +46,14 @@ public MainPage()
 ```
 
 
-c) Add Data to ListView
+3. Add Data to ListView
 
 ```csharp
 QuickTaskListView.ItemsSource = tasks;
 ```
 
 
-## You get this!
+## You got this!
 
 +![](Materials/Screenshot_05.png)
 
