@@ -17,3 +17,8 @@
 
 
 ![](Materials/Screenshot_03.png)
+
+# You got this!
+
+![](Materials/Screenshot_04.png)
+
