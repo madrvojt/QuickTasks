@@ -4,8 +4,6 @@
              xmlns:local="clr-namespace:QuickTasks"
              x:Class="QuickTasks.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+	<ListView x:Name="QuickTaskListView" />
 
 </ContentPage>

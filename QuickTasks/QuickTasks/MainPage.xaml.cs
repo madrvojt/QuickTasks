@@ -12,6 +12,12 @@ namespace QuickTasks
 		public MainPage()
 		{
 			InitializeComponent();
+			List<string> tasks = new List<string>();
+			tasks.Add("Create Xamarin Apps");
+			tasks.Add("Join XMDG.cz on Facebook and Twitter");
+			tasks.Add("Enjoy Xamarin Prague Days");
+
+			QuickTaskListView.ItemsSource = tasks;
 		}
 	}
 }
